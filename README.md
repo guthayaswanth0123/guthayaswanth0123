@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi ,I am Gutha Yaswanth
 I am a Computer Science undergraduate with a strong focus on Data Science, Machine Learning, and Artificial Intelligence, passionate about transforming raw data into meaningful insights and scalable solutions. I have hands-on experience in building end-to-end data analytics and machine learning projects, including interactive business intelligence dashboards, ETL data pipelines, and predictive models. My technical skill set includes Python, SQL, C++, Pandas, NumPy, Scikit-learn, Power BI, and MySQL, along with a solid foundation in Data Structures and Algorithms and problem-solving. I continuously work on real-world projects, explore advanced topics such as NLP and model optimization, and actively practice coding challenges to enhance performance and efficiency. My career objective is to grow as a Data Scientist / Machine Learning Engineer and contribute to high-impact, data-driven products in a professional and innovative environment.
 
 

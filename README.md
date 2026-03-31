@@ -41,10 +41,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🤖+Machine+Learning+Engineer;📊+Data+Science+Enthusiast;🧠+AI+%26+Deep+Learning+Explorer;🚀+Full+Stack+Developer+%26+Innovator;💡+Problem+Solver+%26+Code+Architect;🌟+Open+Source+Contributor;🎯+Building+the+Future+with+AI&repeat=true&autoplay=true" alt="Typing SVG" />
 </p>
 
-<br><br>
-</p>
 <div align="center">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Contribution Animation">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="90%" alt="Contribution Animation"/>
 </div>
 
 <!-- LEGENDARY SOCIAL CONNECT WITH DYNAMIC STATS -->
@@ -367,8 +365,9 @@ def my_passion():
 
 <img src="https://user-images.githubusercontent.com/74038190/212284081-648386bb-60bf-4de8-8aea-de6df4de45b9.gif" width="300">
 
-<!-- LeetCode Real Stats -->
-<img src="https://leetcard.jacoblin.cool/guthayaswanth28?theme=unicorn&font=Nunito&ext=contest" width="48%" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/guthayaswanth28?theme=unicorn&font=Nunito&ext=contest" width="48%" />
+</p>
 
 <!-- HackerRank Real Stats -->
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhacker-rank-api.herokuapp.com%2Fapi%2Fguthayaswanth&query=%24.rating&label=HackerRank%20Rating&style=for-the-badge&logo=hackerrank&logoColor=white&color=2EC866&labelColor=2EC866" />
@@ -386,11 +385,11 @@ def my_passion():
 </td>
 <td align="center" width="50%">
 <strong>🎯 HackerRank Achievements</strong><br/>
-<img src="https://img.shields.io/badge/Problem_Solving-5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/><br/>
+<img src="https://img.shields.io/badge/Problem_Solving-4_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866"/><br/>
 <img src="https://img.shields.io/badge/Python-4_Star-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B"/><br/>
 <img src="https://img.shields.io/badge/Problem Solving-4_Star-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00"/><br/>
 <img src="https://img.shields.io/badge/SQL-4_Star-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/><br/>
-<img src="https://img.shields.io/badge/Algorithms-Gold_Badge-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=FFD700"/>
+<img src="https://img.shields.io/badge/Algorithms-4_Star-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=FFD700"/>
 </td>
 </tr>
 </table>
@@ -436,6 +435,7 @@ def my_passion():
 </div>
 
 ### 🚀 **Advanced Analytics Dashboard**
+### 🚨 GitHub Contribution Grid Snake Animation
 
 <div align="center">
 
@@ -443,9 +443,9 @@ def my_passion():
 
 <!-- Enhanced 3D Contribution Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariteja-01/guthayaswanth0123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guthayaswanth0123/guthayaswanth0123/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guthayaswanth0123/guthayaswanth0123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guthayaswanth0123/guthayaswanth0123/output/github-contribution-grid-snake.svg">
+  <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guthayaswanth0123/guthayaswanth0123/output/github-contribution-grid-snake.svg"> -->
 </picture>
 
 <!-- Alternative Working Snake Animation -->
@@ -455,22 +455,6 @@ def my_passion():
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 ### 🎮 **Interactive GitHub Metrics Dashboard**
-
-<!-- Comprehensive Stats Dashboard with Enhanced Visuals -->
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=guthayaswanth0123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%" />
-
-</td>
-<td align="center" width="50%">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guthayaswanth0123&theme=radical&hide_border=true&background=0D1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a8a&border_radius=15" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <!-- Enhanced Language Stats with Multiple Layouts -->
 <table align="center" width="100%">
@@ -915,14 +899,10 @@ class OpenSourceGoals2025:
 
 ## 🔥 Featured Upcoming Projects
 
-- ⚙️ **End-to-End MLOps Pipeline**  
-  A production-ready machine learning system integrating data ingestion, preprocessing, model training, deployment, and monitoring with full lifecycle automation.
-- 📊 **ML Monitoring Dashboard**  
-  An interactive dashboard for visualizing model performance, tracking metrics, detecting data drift, and enabling real-time predictions.
-- 🚀 **Scalable ML Backend (FastAPI)**  
-  A high-performance REST API for serving machine learning models, supporting real-time inference and seamless integration with frontend applications.
-- 🔄 **CI/CD for Machine Learning**  
-  Automated pipelines for model training, testing, versioning, and deployment using tools like GitHub Actions and MLflow.
+- ⚙️ **End-to-End MLOps Pipeline**: MLOps, Automation, Data Pipelines, Model Training, Deployment, Monitoring, CI/CD, Scalability
+- 📊 **ML Monitoring Dashboard**: Monitoring, Metrics, Visualization, Data Drift, Model Performance, Alerts, Analytics
+- 🚀 **Scalable ML Backend (FastAPI)**: FastAPI, REST API, Inference, Microservices, Scalability, Async Processing, Integration
+- 🔄 **CI/CD for Machine Learning**:  
 
 </div>
 

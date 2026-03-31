@@ -1355,7 +1355,7 @@ print(f"Current status: {developer.superpower}")
 </td>
 <td align="center" width="20%">
 <br>
-<sub>📱 Behind-the-scenes tech content</sub>
+
 </td>
 </tr>
 </table>

@@ -1355,7 +1355,7 @@ print(f"Current status: {developer.superpower}")
 <a href="https://www.hackerrank.com/profile/guthayaswanth" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a><br>
-<sub>⭐ Competitive programming & skills</sub>
+<sub>⭐ Competitive programming & Algorithmic skills</sub>
 </td>
 </tr>
 </table>

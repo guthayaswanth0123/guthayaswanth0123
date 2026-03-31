@@ -437,12 +437,8 @@ def my_passion():
 ### 🚀 **Advanced Analytics Dashboard**
 ### 🚨 GitHub Contribution Grid Snake Animation
 <div align="center">
-
 <!-- Top Animation (fixed size, centered) -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
-
-<br><br>
-
 <!-- Snake Animation (responsive, clean) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -468,12 +464,10 @@ def my_passion():
 </td>
 </tr>
 </table>
-
 <!-- Advanced Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guthayaswanth0123&theme=radical" width="100%" />
 </p>
-
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">

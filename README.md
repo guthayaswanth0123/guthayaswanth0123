@@ -1327,35 +1327,35 @@ print(f"Current status: {developer.superpower}")
 
 ### 🌐 **Let's Build Something Amazing Together!**
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="20%">
+
+<td align="center" width="25%">
 <a href="https://linkedin.com/in/guthayaswanth28" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><br>
 <sub>💼 Professional networking & collaborations</sub>
 </td>
-<td align="center" width="20%">
+
+<td align="center" width="25%">
 <a href="mailto:guthayaswanthgmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><br>
 <sub>📧 Project discussions & opportunities</sub>
 </td>
-<td align="center" width="20%">
+
+<td align="center" width="25%">
 <a href="https://www.leetcode.com/guthayaswanth28" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Coding%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Coding%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a><br>
 <sub>🧩 Algorithm challenges & problem solving</sub>
 </td>
-<td align="center" width="20%">
+
+<td align="center" width="25%">
 <a href="https://www.hackerrank.com/profile/guthayaswanth" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Skill%20Showcase-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a><br>
 <sub>⭐ Competitive programming & skills</sub>
-</td>
-<td align="center" width="20%">
-<br>
-
 </td>
 </tr>
 </table>
